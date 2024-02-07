@@ -1,4 +1,6 @@
-👋 Hi, I'm Vishwas!
+# 👋 Hi, I'm Vishwas!
+
+---
 
 I'm diving into the world of data analysis, currently focusing on honing my skills in SQL, Python, and Excel.
 
